@@ -1,0 +1,247 @@
+[Root]
+Most Recent Package=Futsal
+
+
+[Package|Futsal|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=f:\FCG project\SIFUT + MySQL\SIFUT
+
+[Package|Futsal|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Futsal|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Futsal|Files Found]
+
+[Package|Futsal|Files Released]
+
+[Package|Futsal|Missing Dependency Information]
+C:\Windows\System32\crviewer.dll=
+C:\Windows\System32\PVDateEdit9.ocx=
+C:\Windows\System32\IGTransition40.OCX=
+C:\Windows\System32\pvnum.ocx=
+C:\Windows\System32\Codejock.TaskPanel.v11.2.2.ocx=
+C:\Windows\System32\IGSplitter40.OCX=
+C:\Windows\System32\IGToolBars50.ocx=
+C:\Windows\System32\Codejock.CommandBars.v11.2.2.ocx=
+C:\Windows\System32\IGThreed40.OCX=
+C:\Windows\System32\Codejock.Controls.v11.2.2.ocx=
+C:\Windows\System32\PVCalendar9.ocx=
+C:\Windows\System32\IGTabs40.OCX=
+C:\Windows\System32\VBMySQLDirect.dll=
+C:\Windows\System32\arpro2.dll=
+C:\Windows\System32\vsprint8.ocx=
+
+[Package|Futsal|Out-of-Date Dependency Information]
+C:\Windows\System32\Tdbgpp8.DLL=
+C:\Windows\System32\MCI32.OCX=
+C:\Windows\System32\MSCOMCTL.OCX=
+C:\Windows\System32\COMDLG32.OCX=
+
+[Package|Futsal|Files Added]
+
+[Package|Futsal|Files Removed]
+
+[Package|Futsal|Files In Project]
+C:\Windows\System32\msvbvm60.dll=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Windows\System32\MSBIND.DLL=Yes
+C:\Windows\System32\MSSTDFMT.DLL=Yes
+C:\Windows\System32\vsprint8.ocx=Yes
+C:\Program Files\Common Files\microsoft shared\DAO\dao360.dll=Yes
+C:\Windows\System32\arpro2.dll=Yes
+C:\Windows\System32\MSDBRPTR.DLL=Yes
+C:\Windows\System32\VBMySQLDirect.dll=Yes
+C:\Windows\System32\MSRDC20.OCX=Yes
+C:\Windows\System32\MSRDO20.DLL=Yes
+C:\Windows\System32\RDOCURS.DLL=Yes
+C:\Windows\System32\TABCTL32.OCX=Yes
+C:\Windows\System32\MSFLXGRD.OCX=Yes
+C:\Windows\System32\COMDLG32.OCX=Yes
+C:\Windows\System32\MSCOMCTL.OCX=Yes
+C:\Windows\System32\MSCOMCT2.OCX=Yes
+C:\Windows\System32\MSINET.OCX=Yes
+C:\Windows\System32\RICHTX32.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=Yes
+C:\Windows\System32\MSCHRT20.OCX=Yes
+C:\Windows\System32\MSWINSCK.OCX=Yes
+C:\Windows\System32\MSMAPI32.OCX=Yes
+C:\Windows\System32\MCI32.OCX=Yes
+C:\Windows\System32\PICCLP32.OCX=Yes
+C:\Windows\System32\SYSINFO.OCX=Yes
+C:\Windows\System32\MSCOMM32.OCX=Yes
+C:\Windows\System32\MSMASK32.OCX=Yes
+C:\Windows\System32\MSDATGRD.OCX=Yes
+C:\Windows\System32\MSDATLST.OCX=Yes
+C:\Windows\System32\COMCT332.OCX=Yes
+C:\Windows\System32\MSADODC.OCX=Yes
+C:\Windows\System32\MSHFLXGD.OCX=Yes
+C:\Windows\System32\IGTabs40.OCX=Yes
+C:\Windows\System32\Todg8.ocx=Yes
+C:\Windows\System32\Todgub8.DLL=Yes
+C:\Windows\System32\Tdbgpp8.DLL=Yes
+C:\Windows\System32\PVCalendar9.ocx=Yes
+C:\Windows\System32\Codejock.Controls.v11.2.2.ocx=Yes
+C:\Windows\System32\IGThreed40.OCX=Yes
+C:\Windows\System32\Codejock.CommandBars.v11.2.2.ocx=Yes
+C:\Windows\System32\IGToolBars50.ocx=Yes
+C:\Windows\System32\IGSplitter40.OCX=Yes
+C:\Windows\System32\Codejock.TaskPanel.v11.2.2.ocx=Yes
+C:\Windows\System32\pvnum.ocx=Yes
+C:\Windows\System32\IGTransition40.OCX=Yes
+C:\Windows\System32\PVDateEdit9.ocx=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\Windows\System32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+F:\FCG project\SIFUT + MySQL\Futsal.exe=Yes
+C:\Windows\System32\msjet40.dll=Yes
+C:\Windows\System32\msjter40.dll=Yes
+C:\Windows\System32\msjint40.dll=Yes
+C:\Windows\System32\vbajet32.dll=Yes
+C:\Windows\System32\expsrv.dll=Yes
+C:\Windows\System32\mswstr10.dll=Yes
+C:\Windows\System32\mswdat10.dll=Yes
+C:\Windows\System32\msrd2x40.dll=Yes
+C:\Windows\System32\msrd3x40.dll=Yes
+C:\Windows\System32\msrepl40.dll=Yes
+C:\Windows\System32\msjtes40.dll=Yes
+C:\Windows\System32\VB5DB.DLL=Yes
+C:\Program Files\Common Files\DESIGNER\MSDERUN.DLL=Yes
+C:\Program Files\Infragistics\Data Widgets\ssdw3bo.ocx=Yes
+C:\Windows\System32\mfc42.dll=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT.DLL=Yes
+C:\Program Files\Infragistics\Data Widgets\ssmedt32.dll=Yes
+C:\Program Files\Infragistics\Data Widgets\ssprn32.dll=Yes
+C:\Program Files\Infragistics\Data Widgets\ssr2c.dll=Yes
+
+[Package|Futsal|Configure Registry Files]
+Applicable=No
+
+[Package|Futsal|Configure Remote Servers]
+Applicable=No
+
+[Package|Futsal|Install Locations]
+D:\SIFUT + MySQL\Futsal.exe=$(AppPath)
+C:\Windows\System32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Common Files\System\ado\msado25.tlb=$(WinSysPath)
+C:\Windows\System32\MSBIND.DLL=$(WinSysPath)
+C:\Windows\System32\MSSTDFMT.DLL=$(WinSysPath)
+C:\Windows\System32\vsprint8.ocx=$(WinSysPath)
+C:\Program Files\Common Files\microsoft shared\DAO\dao360.dll=$(WinSysPath)
+C:\Windows\System32\craxdrt.dll=$(WinSysPath)
+C:\Windows\System32\craxddrt.dll=$(WinSysPath)
+C:\Windows\System32\msderun.dll=$(WinSysPath)
+C:\Windows\System32\arpro2.dll=$(WinSysPath)
+C:\Windows\System32\MSDBRPTR.DLL=$(WinSysPath)
+C:\Windows\System32\VBMySQLDirect.dll=$(WinSysPath)
+C:\Windows\System32\MSRDC20.OCX=$(WinSysPath)
+C:\Windows\System32\MSRDO20.DLL=$(WinSysPath)
+C:\Windows\System32\RDOCURS.DLL=$(WinSysPath)
+C:\Windows\System32\TABCTL32.OCX=$(WinSysPath)
+C:\Windows\System32\MSFLXGRD.OCX=$(WinSysPath)
+C:\Windows\System32\COMDLG32.OCX=$(WinSysPath)
+C:\Windows\System32\MSCOMCTL.OCX=$(WinSysPath)
+C:\Windows\System32\MSCOMCT2.OCX=$(WinSysPath)
+C:\Windows\System32\MSINET.OCX=$(WinSysPath)
+C:\Windows\System32\RICHTX32.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=$(WinSysPathSysFile)
+C:\Windows\System32\MSCHRT20.OCX=$(WinSysPath)
+C:\Windows\System32\MSWINSCK.OCX=$(WinSysPath)
+C:\Windows\System32\MSMAPI32.OCX=$(WinSysPath)
+C:\Windows\System32\MCI32.OCX=$(WinSysPath)
+C:\Windows\System32\PICCLP32.OCX=$(WinSysPath)
+C:\Windows\System32\SYSINFO.OCX=$(WinSysPath)
+C:\Windows\System32\MSCOMM32.OCX=$(WinSysPath)
+C:\Windows\System32\MSMASK32.OCX=$(WinSysPath)
+C:\Windows\System32\MSDATGRD.OCX=$(WinSysPath)
+C:\Windows\System32\MSDATLST.OCX=$(WinSysPath)
+C:\Windows\System32\COMCT332.OCX=$(WinSysPath)
+C:\Windows\System32\MSADODC.OCX=$(WinSysPath)
+C:\Windows\System32\MSHFLXGD.OCX=$(WinSysPath)
+C:\Windows\System32\IGTabs40.OCX=$(WinSysPath)
+C:\Windows\System32\Todg8.ocx=$(WinSysPath)
+C:\Windows\System32\Todgub8.DLL=$(WinSysPath)
+C:\Windows\System32\Tdbgpp8.DLL=$(WinSysPath)
+C:\Windows\System32\PVCalendar9.ocx=$(WinSysPath)
+C:\Windows\System32\Codejock.Controls.v11.2.2.ocx=$(WinSysPath)
+C:\Windows\System32\IGThreed40.OCX=$(WinSysPath)
+C:\Windows\System32\Codejock.CommandBars.v11.2.2.ocx=$(WinSysPath)
+C:\Windows\System32\IGToolBars50.ocx=$(WinSysPath)
+C:\Windows\System32\IGSplitter40.OCX=$(WinSysPath)
+C:\Windows\System32\Codejock.TaskPanel.v11.2.2.ocx=$(WinSysPath)
+C:\Windows\System32\Percents.ocx=$(WinSysPath)
+C:\Windows\System32\SSDW3B32.ocx=$(WinSysPath)
+C:\Windows\System32\pvnum.ocx=$(WinSysPath)
+C:\Windows\System32\IGTransition40.OCX=$(WinSysPath)
+C:\Windows\System32\PVDateEdit9.ocx=$(WinSysPath)
+C:\Windows\System32\crviewer.dll=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\Windows\System32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+F:\FCG project\SIFUT + MySQL\Futsal.exe=$(AppPath)
+C:\Windows\System32\msjet40.dll=$(WinSysPathSysFile)
+C:\Windows\System32\msjter40.dll=$(WinSysPathSysFile)
+C:\Windows\System32\msjint40.dll=$(WinSysPathSysFile)
+C:\Windows\System32\vbajet32.dll=$(WinSysPathSysFile)
+C:\Windows\System32\expsrv.dll=$(WinSysPathSysFile)
+C:\Windows\System32\mswstr10.dll=$(WinSysPathSysFile)
+C:\Windows\System32\mswdat10.dll=$(WinSysPathSysFile)
+C:\Windows\System32\msrd2x40.dll=$(WinSysPathSysFile)
+C:\Windows\System32\msrd3x40.dll=$(WinSysPathSysFile)
+C:\Windows\System32\msrepl40.dll=$(WinSysPathSysFile)
+C:\Windows\System32\msjtes40.dll=$(WinSysPathSysFile)
+C:\Windows\System32\VB5DB.DLL=$(WinSysPath)
+C:\Program Files\Common Files\DESIGNER\MSDERUN.DLL=$(CommonFiles)\designer
+C:\Program Files\Infragistics\Data Widgets\ssdw3bo.ocx=$(WinSysPath)
+C:\Windows\System32\mfc42.dll=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Infragistics\Data Widgets\ssmedt32.dll=$(WinSysPath)
+C:\Program Files\Infragistics\Data Widgets\ssprn32.dll=$(WinSysPath)
+C:\Program Files\Infragistics\Data Widgets\ssr2c.dll=$(WinSysPath)
+
+[Package|Futsal|Configure Shared Files]
+Applicable=Yes
+D:\SIFUT + MySQL\Futsal.exe=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+F:\FCG project\SIFUT + MySQL\Futsal.exe=Yes
+
+[Package|Futsal|Distribution]
+Type=single
+Size=
+Title=Futsal
+
+[Package|Futsal|IconGroups]
+Group0=Futsal
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|Futsal|Futsal]
+Icon1=Futsal.exe
+Title1=Futsal
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Futsal|Package]
+PackageFolder=f:\FCG project\SIFUT + MySQL\SIFUT
+ProjectFolder=F:\FCG project\SIFUT + MySQL
+ServerSideCab=
+File1=f:\FCG project\SIFUT + MySQL\SIFUT\setup.exe
+File2=f:\FCG project\SIFUT + MySQL\SIFUT\Setup.Lst
+File3=f:\FCG project\SIFUT + MySQL\SIFUT\Futsal.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz

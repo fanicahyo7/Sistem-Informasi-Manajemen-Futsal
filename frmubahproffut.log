@@ -1,0 +1,18 @@
+Line 18: Class SSSplitter.SSSplitter of control SSSplitter1 was not a loaded control class.
+Line 30: Class Threed.SSPanel of control SSPanel2 was not a loaded control class.
+Line 197: Class Threed.SSPanel of control SSPanel1 was not a loaded control class.
+Line 24: The property name _ExtentX in SSSplitter1 is invalid.
+Line 25: The property name _ExtentY in SSSplitter1 is invalid.
+Line 26: The property name _Version in SSSplitter1 is invalid.
+Line 28: The property name Locked in SSSplitter1 is invalid.
+Line 29: The property name PaneTree in SSSplitter1 is invalid.
+Line 36: The property name _ExtentX in SSPanel2 is invalid.
+Line 37: The property name _ExtentY in SSPanel2 is invalid.
+Line 38: The property name _Version in SSPanel2 is invalid.
+Line 40: The property name RoundedCorners in SSPanel2 is invalid.
+Line 41: The property name FloodShowPct in SSPanel2 is invalid.
+Line 203: The property name _ExtentX in SSPanel1 is invalid.
+Line 204: The property name _ExtentY in SSPanel1 is invalid.
+Line 205: The property name _Version in SSPanel1 is invalid.
+Line 207: The property name RoundedCorners in SSPanel1 is invalid.
+Line 208: The property name FloodShowPct in SSPanel1 is invalid.
